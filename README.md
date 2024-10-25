@@ -2,13 +2,11 @@
 
 A dynamic **Tableau dashboard** analyzing UK road accident data over multiple years to provide year-over-year comparisons on accident severity and vehicle types. By integrating **MySQL** for data storage and processing, this dashboard offers policy makers actionable insights for addressing accident-prone zones more effectively.
 
-[![UK Road Accident Dashboard](https://public.tableau.com/static/images/UK/UKRoadAccidentDashboard/Dashboard1/1.png)](https://public.tableau.com/app/profile/armaan.haque/viz/UKRoadAccidentDashboard_16792521623900/Dashboard1)
-
 ## 📈 Project Overview
 This project involves building a **data visualization tool** in **Tableau** to track and analyze trends in UK road accidents. Data cleaning and preparation were essential for accurate insights, enabling breakdowns by:
 
-- **Accident severity** (e.g., minor, serious, fatal)
-- **Vehicle types** (e.g., cars, motorcycles, bicycles)
+- **Accident severity** (e.g., slight, serious, fatal)
+- **Vehicle types** (e.g., cars, motorcycles, bus)
 - **Year-over-year trends** in accident rates and severity
 
 With this tool, policy makers can easily identify and prioritize interventions in high-risk areas.
@@ -16,7 +14,7 @@ With this tool, policy makers can easily identify and prioritize interventions i
 ## 🛠️ Technology Stack
 - **Data Storage & Processing**: MySQL
 - **Data Visualization**: Tableau
-- **Data Cleaning & Preparation**: SQL, Python (Pandas for preprocessing)
+- **Data Cleaning & Preparation**: SQL
 
 ## 💻 Dashboard Features
 The [UK Road Accident Dashboard](https://public.tableau.com/app/profile/armaan.haque/viz/UKRoadAccidentDashboard_16792521623900/Dashboard1) provides an interactive interface with several views:
